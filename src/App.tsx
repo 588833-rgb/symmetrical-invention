@@ -37,9 +37,9 @@ function App() {
       <div className="content-wrapper">
         <section id="hero" className="hero-section">
           <div className="hero-content">
-            <h1 className="hero-title">Welcome to</h1>
-            <h2 className="hero-subtitle">Dispulse</h2>
-            <p className="hero-description">Your social media growth partner</p>
+            <h1 className="hero-title"></h1>
+            <h2 className="hero-subtitle"></h2>
+            <p className="hero-description"></p>
           </div>
         </section>
 
