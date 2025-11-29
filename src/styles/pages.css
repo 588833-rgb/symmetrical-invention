@@ -4,7 +4,7 @@
 .contact-hero {
   text-align: center;
   margin-bottom: 3rem;
-  padding: 2rem 1rem;
+  padding: 0 1rem 2rem 1rem;
 }
 
 .services-title,
@@ -563,10 +563,6 @@
     gap: 1.5rem;
   }
 
-  .page-content {
-    padding: 1.5rem;
-  }
-
   .contact-form {
     padding: 1.5rem;
   }
@@ -589,15 +585,11 @@
     font-size: 1.75rem;
   }
 
-  .page-content {
-    padding: 1rem;
-  }
-
   .services-hero,
   .work-hero,
   .faq-hero,
   .contact-hero {
-    padding: 1rem 0.5rem;
+    padding: 0 0.5rem 1.5rem 0.5rem;
     margin-bottom: 2rem;
   }
 
